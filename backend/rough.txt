@@ -1,0 +1,10 @@
+I am covering API (CRUD)
+Register new employee: POST /register
+
+Create task: POST /api/usertasks
+
+Get all tasks: GET /api/usertasks
+
+Get one task by ID: GET /api/usertasks/:id
+
+Update task: PUT /api/usertasks/:id
