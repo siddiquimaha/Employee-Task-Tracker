@@ -6,8 +6,8 @@ export default function Profile() {
     <div className="ml-0 mr-0 md:ml-[270px] md:mr-[100px] h-full p-4 min-h-screen">
       <div className="bg-white p-6 rounded-lg shadow-lg w-full mx-wid-md">
         <h2 className="text-2xl font-semibold text-center mb-5">Profile</h2>
-        <div className="flex flex-col lg:flex-row gap-6 items-start bg-red-300">
-          <div className="flex flex-col items-center flex-shrink-0 mt-14 bg-blue-300">
+        <div className="flex flex-col lg:flex-row gap-6 items-start">
+          <div className="flex flex-col items-center flex-shrink-0 mt-14">
             <img
               src={mahaimg}
               alt="Profile"
